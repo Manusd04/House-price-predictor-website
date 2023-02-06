@@ -1,0 +1,7 @@
+Flask==2.2.2
+flask_nav==0.6
+numpy==1.21.5
+sklearn
+pandas 
+matplotlib
+seaborn
